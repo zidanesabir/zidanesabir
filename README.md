@@ -90,8 +90,7 @@ I'm a **Software Engineering Master's student** with a passion for building scal
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/zidanesabir/count.svg)
+
 
 </div>
 
@@ -100,4 +99,5 @@ I'm a **Software Engineering Master's student** with a passion for building scal
 <div align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
+
 
