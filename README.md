@@ -1,4 +1,4 @@
-# 👨‍💻 Hey there, I'm Sabir! 
+# Hey there, I'm Sabir! 
 
 <div align="center">
   
@@ -66,34 +66,29 @@ I'm a **Software Engineering Master's student** with a passion for building scal
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithsabir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsabir&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidanesabir&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsabir&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsabir&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidanesabir&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithsabir&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zidanesabir&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🏥 [Smart Medical Tracking System](link-to-repo)
+### 🏥 [Smart Medical Tracking System](https://github.com/zidanesabir/talentia)
 Full-stack web application for patient medical tracking and doctor supervision, built with Agile methodologies and modern UX/UI principles.
 `Laravel` `JavaScript` `MySQL` `UX/UI Design` `Agile`
 
-### 📝 [Collaborative Notes Management App](link-to-repo)
+### 📝 [Collaborative Notes Management App](https://github.com/zidanesabir/note_app_v2)
 **Two complete implementations:**
 - **Version 1:** FastAPI (Python) backend + Next.js frontend
 - **Version 2:** Express.js (Node.js) backend + React.js frontend
@@ -101,7 +96,7 @@ Full-stack web application for patient medical tracking and doctor supervision, 
 
 `FastAPI` `Next.js` `Express.js` `React` `Docker` `Docker Compose`
 
-### 🎓 [Academic Management System (SGE)](link-to-repo)
+### 🎓 [Academic Management System (SGE)](https://github.com/zidanesabir/sgeproject)
 Complete system managing courses, exams, grades, students and teachers with MVC architecture. Implements role-based security (admin, teacher, student).
 `Spring Boot` `Thymeleaf` `MySQL` `MVC` `Security`
 
@@ -114,7 +109,7 @@ Complete system managing courses, exams, grades, students and teachers with MVC 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabir-zidane-7aa987262/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zidanesabir1.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabirzidane0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zidanesabir)
+
 
 </div>
 
@@ -125,8 +120,6 @@ Complete system managing courses, exams, grades, students and teachers with MVC 
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/codewithsabir/count.svg)
 
 </div>
 
@@ -135,3 +128,4 @@ Complete system managing courses, exams, grades, students and teachers with MVC 
 <div align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
+
