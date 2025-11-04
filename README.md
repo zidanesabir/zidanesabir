@@ -14,7 +14,7 @@ I'm a **Software Engineering Master's student** with a passion for building scal
 -  Learning: **Apache Spark, Kubernetes orchestration, Big Data architectures**
 -  Interests: **DevOps automation, Cloud infrastructure, Full-stack development**
 -  2025 Goals: **Contribute to open-source projects and master Kubernetes**
--  Fun fact: **I automate everything... even my coffee maker!** ☕
+-  Fun fact: **I automate everything... even my coffee maker!** 
 
 ---
 
@@ -129,6 +129,7 @@ Complete system managing courses, exams, grades, students and teachers with MVC 
 <div align="center">
   <i> "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
+
 
 
 
