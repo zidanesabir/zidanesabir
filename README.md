@@ -1,4 +1,4 @@
-# 👨‍💻 Hey there, I'm Sabir! 
+# 👨‍💻 Hey there, I'm Zidane Sabir! 
 
 <div align="center">
   
@@ -50,23 +50,23 @@ I'm a **Software Engineering Master's student** with a passion for building scal
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithsabir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsabir&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zidanesabir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanesabir&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsabir&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidanesabir&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsabir&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidanesabir&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithsabir&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zidanesabir&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -100,3 +100,4 @@ I'm a **Software Engineering Master's student** with a passion for building scal
 <div align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
+
