@@ -108,7 +108,8 @@ Complete system managing courses, exams, grades, students and teachers with MVC 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabir-zidane-7aa987262/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zidanesabir1.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabirzidane0@gmail.com)
+[![Compose](https://img.shields.io/badge/Open_in_Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sabirzidane0@gmail.com)
+
 
 
 </div>
@@ -128,4 +129,5 @@ Complete system managing courses, exams, grades, students and teachers with MVC 
 <div align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
+
 
