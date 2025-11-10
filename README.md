@@ -11,7 +11,7 @@
 I'm a **Software Engineering Master's student** with a passion for building scalable, cloud-native applications. I love the intersection of **development and operations**, and I'm constantly exploring the latest in **machine learning** and **big data technologies**.
 
 -  Currently working on: **Distributed systems and ML pipelines**
--  Learning: **Apache Spark, Kubernetes orchestration, Big Data architectures**
+-  Learning: ** Kubernetes orchestration, Big Data architectures**
 -  Interests: **DevOps automation, Cloud infrastructure, Full-stack development**
 -  2025 Goals: **Contribute to open-source projects and master Kubernetes**
 -  Fun fact: **I automate everything... even my coffee maker!** 
@@ -129,6 +129,7 @@ Complete system managing courses, exams, grades, students and teachers with MVC 
 <div align="center">
   <i> "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
+
 
 
 
